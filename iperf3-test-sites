@@ -1,0 +1,2 @@
+Jakarta - iperf3 -c iperf.biznetnetworks.com -p 5201-5203
+Tashkent - iperf3 -c speedtest.uztelecom.uz -p 5200-5207
